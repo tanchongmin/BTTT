@@ -1,5 +1,8 @@
 ## Instructions
 
+Paper can be found at:
+https://arxiv.org/abs/2207.05991
+
 <b>Dependencies required:</b>
 - python 3.0
 - tensorflow
